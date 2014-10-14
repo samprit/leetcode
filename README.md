@@ -1,4 +1,4 @@
 leetcode
 ===========================================
 
-Problems solved by me in leetcode
+Problems solved in leetcode
